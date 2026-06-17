@@ -1,0 +1,5 @@
+# opencode configuration
+opencode.json
+opencode.jsonc
+.opencode/
+.agents/
