@@ -2,3 +2,18 @@
 opencode.json
 opencode.jsonc
 
+# Node
+node_modules/
+dist/
+
+# Rust/Tauri
+src-tauri/target/
+src-tauri/gen/
+
+# Local vault database
+vault.db
+
+# OS
+.DS_Store
+Thumbs.db
+
